@@ -1,2 +1,3 @@
-# KV-Cache-Optimization
-KV Cache Optimization
+# Inference-Optimization
+* Quantization [📄](/quant.md)
+* KV Cache Optimization [📄](/kv.md)
